@@ -12,3 +12,12 @@ Le jeu VALORANT est un 5 contre 5 . Les attaquants qui doivent planter une bombe
 défenseurs doivent défendre ces sites ou désamorcer la bombe si elle a été plantée. 
 Chaque joueur dispose d'un personnage unique dans son équipe avec des capacités et un rôle spécial. 
 La première équipe à gagner 13 manches gagne la partie !
+
+### ** Les rôles des agents **
+
+- Sentinels : Ils ont pour but de protéger l'entrée des sites ou de couvrir le dos de l'équipe souvent grâce à des pièges.
+- Duelliste : Leur but est de se battre : prendre des zones en attaques ou encore prendre les premiers kills en défense.
+- Les initiateurs : Ils ont pour but d'aider les duellsites à entrer sur les sites grâce à leurs reveals ou flashs.
+- Les controlleurs : ils mettent des fumigènes pour aider leurs alliés à rentrer sur les sites ou à défendre les sites.
+
+### **Le système compétitif **
