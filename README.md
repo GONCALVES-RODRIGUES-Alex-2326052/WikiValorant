@@ -21,3 +21,17 @@ La première équipe à gagner 13 manches gagne la partie !
 - Les controlleurs : ils mettent des fumigènes pour aider leurs alliés à rentrer sur les sites ou à défendre les sites.
 
 ## Le système compétitif 
+
+Il existe différents rangs sur le jeu pour répartir les joueurs selon leur niveau
+
+|Les différents Rangs|
+|--------------------|
+|     Fer (1 à 3)    |
+|   Bronze (1 à 3)   | 
+|   Argent (1 à 3)   | 
+|     Or (1 à 3)     | 
+|   Platine (1 à 3)  | 
+|   Diamant (1 à 3)  | 
+|  Ascendant (1 à 3) |
+|  Immortel (1 à 3)  |
+|Radiant (top 500 de chaque région)|
