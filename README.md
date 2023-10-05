@@ -35,3 +35,20 @@ Il existe différents rangs sur le jeu pour répartir les joueurs selon leur niv
 |  Ascendant (1 à 3) |
 |  Immortel (1 à 3)  |
 |Radiant (top 500 de chaque région)|
+
+## Les cartes
+
+ Il existe 10 cartes sur VALORANT :
+
+ - Sunset
+ - Split
+ - Breeze
+ - Haven
+ - Ascent
+ - Fracture
+ - Lotus
+ - Icebox
+ - Pearl
+ - Bind
+
+   
